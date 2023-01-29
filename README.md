@@ -1,4 +1,4 @@
-# Webhook telegram bot basic
+# Telegram bot on webhooks. Basic code.
 
 A basic working code for further development of your Telegram bot using a webhook.
 
